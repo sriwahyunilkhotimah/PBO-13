@@ -1,0 +1,16 @@
+body {
+    padding-top: 20px;
+}
+
+#auth-section, #main-section {
+    margin-top: 20px;
+}
+
+h2, h3 {
+    margin-top: 20px;
+}
+
+#logout-button {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
